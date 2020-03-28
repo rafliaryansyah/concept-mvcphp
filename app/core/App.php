@@ -2,8 +2,8 @@
 
 class App {
 
-    protected $controller = "DefaultController";
-    protected $method = "index";
+    protected $controller = 'student';
+    protected $method = 'index';
     protected $params = [];
 
     public function __construct()
